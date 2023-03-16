@@ -13,7 +13,7 @@ This bot get dates from SQLite database file, and post it to telegram channel.
 * Installation using pip (a Python package manager):
 
 ```
-$ git clone https://github.com/CodeByZen/calendarit-telegram-bot.git
+$ git clone https://github.com/CodeByZen/CalendarIT_Telegram_Bot.git
 $ cd calendarit-telegram-bot
 $ pip install -r requirements.txt
 $ python3 app.py
